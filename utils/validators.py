@@ -1,0 +1,1 @@
+# Validácia vstupov

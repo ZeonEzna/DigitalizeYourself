@@ -1,1 +1,1 @@
-
+# Pomocné funkcie
